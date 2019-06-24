@@ -9,7 +9,7 @@ Plugin URI: https://pgeorgiev.tech
 Description: The plugin is WooCommerce ready to fast buy
 Author: Plamen Georgiev
 Version: 1.0
-Author URI: https://pgeorgiev.tech
+Author URI: https://pgeorgiev.it
 Text domain: qb_wp
 */
 
