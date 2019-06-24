@@ -5,11 +5,11 @@
  */
 /*
 Plugin Name: WooCommerce Quick Buy
-Plugin URI: https://seomax.bg
-Description: The plugin is WooCommerce ready to fast buy. 
+Plugin URI: https://pgeorgiev.tech
+Description: The plugin is WooCommerce ready to fast buy
 Author: Plamen Georgiev
 Version: 1.0
-Author URI: https://seomax.bg
+Author URI: https://pgeorgiev.tech
 Text domain: qb_wp
 */
 
